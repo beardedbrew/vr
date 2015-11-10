@@ -4,7 +4,7 @@ Boilerplate for getting a new design concept off the ground.
 #Install
 Clone the repo
 ```
-git clone git@github.com:beardedbrew/design-template.git
+git clone git@github.com:beardedbrew/vr.git
 ```
 Install modules
 ```
